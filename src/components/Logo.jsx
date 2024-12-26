@@ -1,6 +1,6 @@
 import React from 'react';
 import '../styles/Logo.css';
-import logoImage from '../components/kd2.png'; // Make sure to place your image in the assets folder
+import logoImage from './KD Logo.png';
 
 const Logo = () => {
   return (

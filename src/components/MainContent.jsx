@@ -68,9 +68,9 @@ const MainContent = ({ visible }) => {
           <a href="https://www.youtube.com/channel/UC3tmfmBZf5Ufqo2JSEwj6BA?sub_confirmation=1" target="_blank" aria-label="YouTube">
             <FontAwesomeIcon icon={faYoutube} />
           </a>
-          <a href="https://www.linkedin.com/company/kerala-drives/" target="_blank" aria-label="LinkedIn">
+          {/* <a href="https://www.linkedin.com/company/kerala-drives/" target="_blank" aria-label="LinkedIn">
             <FontAwesomeIcon icon={faLinkedin} />
-          </a>
+          </a> */}
           <a href="https://in.pinterest.com/keraladrives195/" target="_blank" aria-label="Pinterest">
             <FontAwesomeIcon icon={faPinterest} />
           </a>
